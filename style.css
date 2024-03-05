@@ -1,12 +1,13 @@
 body {
     margin: 0;
     padding: 0;
-    background-color: gray;
+    background-color: whitesmoke;
 }
 
 header {
-    background-color: pink;
+    background-color: white;
     height: 50px;
+    margin-bottom: 30px;
 }
 
 .container img {
@@ -14,20 +15,81 @@ header {
 }
 
 .container h1 {
-    margin: 0; 
-    
+    margin: 0;   
 }
 
-.container {
-    margin-bottom: 30px;  
-}
+
     
 main {
-    width: 80%;
-    margin: 0 auto;   
+    background-color: white;
+    border-radius: 20px;
+    padding: 30px;
+    width: 60%;
+    margin: auto;
 }
 
 .bottoni {
     margin-top: 30px;
 }
+
+.bottoni button {
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.colorbutton {
+    background-color: lightskyblue;
+}
+
+hr {
+    border-color: lightgrey;
+}
+.blu {
+    background-color: blue;
+    color: white;
+    font-size: 10px;
+    padding: 5px;
+    border-radius: 8px;
+}
+
+.viola {
+    background-color: violet;
+    color: white;
+    font-size: 10px;
+    padding: 5px;
+    border-radius: 8px;
+}
+
+.verde {
+    background-color: green;
+    color: white;
+    font-size: 10px;
+    padding: 5px;
+    border-radius: 8px;
+}
+
+.arancione {
+    background-color: orange;
+    color: white;
+    font-size: 10px;
+    padding: 5px;
+    border-radius: 8px;
+}
+
+.rosa {
+    background-color: pink;
+    color: white;
+    font-size: 10px;
+    padding: 5px;
+    border-radius: 8px;
+}
+
+.verdechiaro {
+    background-color: lightgreen;
+    color: white;
+    font-size: 10px;
+    padding: 5px;
+    border-radius: 8px;
+}
+
 
